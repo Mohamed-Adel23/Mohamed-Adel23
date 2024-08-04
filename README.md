@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel Elsayed</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-adel23" alt="mohamed-adel23" /></a> </p>
-
 - 🔭 I’m currently working on [E-Book Management System](https://github.com/Mohamed-Adel23/E-Book-Management-System)
 
 - 🌱 I’m currently learning **ASP .NET Core Web API, React JS, Distributed Systems, Data Structures, Algorithms**

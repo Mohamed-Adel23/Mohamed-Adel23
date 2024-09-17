@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mohamed.adel.elsayed.fci@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FFfqj9z0w-gXAIO4EcS8ktG9Cg4JTV6x/view?usp=drive_link](https://drive.google.com/file/d/1FFfqj9z0w-gXAIO4EcS8ktG9Cg4JTV6x/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1FFfqj9z0w-gXAIO4EcS8ktG9Cg4JTV6x/view?usp=drive_link)
 
 - ⚡ Fun fact **It’s attention to detail that makes the difference between average and stunning.**
 

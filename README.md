@@ -63,8 +63,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Adel23&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <a href="https://komarev.com/ghpvc/?username=Mohamed-Adel23&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Mohamed-Adel23&style=for-the-badge">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Mohamed-Adel23&style=for-the-badge">
 </a>

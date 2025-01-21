@@ -57,13 +57,13 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ## 💸 Support Me
-<a href="https://ko-fi.com/bnadel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bnadel" /></a>
+<p><a href="https://ko-fi.com/bnadel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bnadel" /></a></p><br><br>
 
 ## 📊 GitHub Statistics
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Adel23&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="https://komarev.com/ghpvc/?username=Mohamed-Adel23&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-Adel23&style=for-the-badge">

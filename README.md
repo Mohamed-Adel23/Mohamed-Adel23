@@ -15,7 +15,7 @@
 - 🎓 Currently pursuing a Bachelor's degree in Computer Science.
 - 🌱 Passionate about Backend Performance, Networking, Distributed Systems, and Cloud Computing.
 - 💬 Always open to discussions on Web Development, Backend Architecture, Databases, Operating Systems, Data Structures, and Algorithms.
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FFfqj9z0w-gXAIO4EcS8ktG9Cg4JTV6x/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14xKgGi_5FAqi7WnqUet9xIZA7qRVw-Cd/view?usp=drive_link)
 - ⚡ Fun Fact: ***It’s attention to detail that makes the difference between average and stunning.***
 
 ## 🤝 Connect with Me

@@ -1,70 +1,308 @@
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;Passionate%20Backend%20Developer;Computer%20Science%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
+
+<!-- STACK -->
+<div align="center" width="100">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:6861e3,100:7fd9e0&text=Stack&reversal=false&fontColor=000000&fontSize=50"
+    alt="Stack"/>
+  
+  <!-- Languages -->
+  </br>
+  <h3>Languages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    width="60px"
+    alt="Java">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
+    width="60px"
+    alt="Groovy">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="60px"
+    alt="Typescript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="60px"
+    alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    width="60px"
+    alt="HTML5">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    width="60px"
+    alt="sass">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Frameworks -->
+  </br>
+  <h3>Frameworks</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+    width="60px"
+    alt="Spring (Spring-boot)">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
+    width="60px"
+    alt="Apache Kafka">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg"
+    width="60px"
+    alt="Gradle">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://logodix.com/logo/699172.png"
+    width="60px"
+    alt="Maven">
+    &nbsp;&nbsp;&nbsp;
+
+  </br>
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    width="60px"
+    alt="NodeJS">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+    width="60px"
+    alt="npm">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
+    width="60px"
+    alt="Angular">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+    width="60px"
+    alt="React">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    width="60px"
+    alt="Bootstrap">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+    width="60px"
+    alt="Jasmine">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg"
+    width="60px"
+    alt="Jasmine">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
+    width="60px"
+    alt="Karma">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Storages -->
+  </br>
+  <h3>Storages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    width="60px"
+    alt="Oracle">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    width="60px"
+    alt="PostgreSQL">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
+    width="60px"
+    alt="Firebase">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    width="60px"
+    alt="MongoDB">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
+    width="60px"
+    alt="Redis">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    
+  
+  <!-- Tools -->
+  </br>
+  <h3>Tools</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    width="60px"
+    alt="Git">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+    width="60px"
+    alt="Jenkins">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://static.wixstatic.com/media/778dda_9e3bec106a7f4c85b5526ddcf35226cf~mv2.png"
+    width="60px"
+    alt="Openshift">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
+    width="60px"
+    alt="Kubernetes">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    width="60px"
+    alt="Docker">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  </br>
+  
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+    width="60px"
+    alt="Jira">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg"
+    width="60px"
+    alt="Confluence">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
+    width="60px"
+    alt="Trello">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
+    width="60px"
+    alt="IntelliJ">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+    width="60px"
+    alt="VS Code">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  
+</div>
+
+</br>
+</br>
+
+<div align="center" width="100">
+  <img
+    src="https://capsule-render.vercel.app/api?type=cylinder&height=5&color=0:6861e3,100:7fd9e0&reversal=false&fontColor=000000&fontSize=50&textBg=false"
+    alt="line"/>
+</div>
+
+</br>
+
+<!-- STATS -->
+<div align="center" width="100">
+  
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:6861e3,100:7fd9e0&text=Statistics&reversal=false&fontColor=000000&fontSize=50"   
+    alt="statistics"/>
+  
+  </br>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dum6o&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
+    alt="Dum6o GitHub Streak">
+    
+  </br>
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
+    alt="Dum6o GitHub Stats">
+
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+      <img
+        src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5272951"
+        alt="Dumbo StackOverflow">
   </a>
-</p> 
 
-<h3 align="center">
-  Welcome to My World! 🚀
-</h3>
+  <br>
+  
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dum6o&theme=transparent&hide_border=true"
+    alt="github-profile-summary"/>
+  
+  </br>
+  
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+    alt="Dum6o GitHub Awards">
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
+  </br>
+  
+  <a href="https://www.linkedin.com/in/edvardasjusius/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&cacheSeconds=3600"
+      alt="LinkedIn">
+  </a>
+  
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow&cacheSeconds=3600"
+      alt="LinkedIn">
+  </a>
+  
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&cacheSeconds=3600"
+      alt="LinkedIn">
+  </a>
 
-- 🏢 Full-Stack Developer specializing in Backend Development with expertise in .NET, Node.js, Laravel, ReactJS, and Dockerization.
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science.
-- 🌱 Passionate about Backend Performance, Networking, Distributed Systems, and Cloud Computing.
-- 💬 Always open to discussions on Web Development, Backend Architecture, Databases, Operating Systems, Data Structures, and Algorithms.
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14xKgGi_5FAqi7WnqUet9xIZA7qRVw-Cd/view?usp=drive_link)
-- ⚡ Fun Fact: ***It’s attention to detail that makes the difference between average and stunning.***
+  <a href="https://edvardas.jusius.eu">
+    <img
+      src="https://img.shields.io/badge/Portfolio--_?style=social&logo=files&logoColor=black&cacheSeconds=3600"
+      alt="LinkedIn">
+  </a>
 
-## 🤝 Connect with Me
+  </br>
 
-<a href="https://linkedin.com/in/mohamed2-adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed2-adel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25620750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25620750" height="30" width="40" /></a>
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
+    alt="Profile Views">
 
-## 🛠️ Tech Stack
+  <br>
+</div>
 
-### Backend Development
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
-
-### Programming Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-
-## 💸 Support Me
-<p><a href="https://ko-fi.com/bnadel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bnadel" /></a></p><br><br>
-
-## 📊 GitHub Statistics
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Adel23&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-<br><br><br><br><br><br><br>
-
-<a href="https://komarev.com/ghpvc/?username=Mohamed-Adel23&style=for-the-badge">
-    <img align="center" src="https://komarev.com/ghpvc/?username=Mohamed-Adel23&style=for-the-badge">
-</a>
+<!--
+USED:
+1. Markdown: https://github.github.com/gfm/
+2. Icons: https://github.com/devicons/devicon/tree/v2.16.0/icons
+3. Header/Footer: https://github.com/kyechan99/capsule-render
+4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
+5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
+6. Badges: https://shields.io
+7. Titles: https://capsule-render.vercel.app/
+-->
